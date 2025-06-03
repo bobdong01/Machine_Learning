@@ -1,2 +1,1 @@
-This follows Stanford CS229 Lecture Notes and implements the algorithms covered in the course.
-
+This project implements popular machine learning algorithms in Python with data found on Kaggle. The goal is to provide a clear and concise implementation of each algorithm, along with explanations and visualizations to help understand how they work. 
